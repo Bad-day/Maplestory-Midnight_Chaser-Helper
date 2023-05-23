@@ -35,7 +35,7 @@
   다음과 같이 가운데 방에 흰색 큰 상자가 있을 경우 
  <br>
   
- <img src="https://github.com/Bad-day/Maplestory-Midnight_Chaser-Helper/assets/75732202/e0e6b36a-863f-4454-9be0-45d0cf036eea"  height="50%" width="50%" />
+ <img src="https://github.com/Bad-day/Maplestory-Midnight_Chaser-Helper/assets/75732202/e0e6b36a-863f-4454-9be0-45d0cf036eea" height="75%" width="75%" />
 
   <br>
   
